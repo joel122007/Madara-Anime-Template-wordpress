@@ -1,6 +1,5 @@
 madara
 Wordpress template for Manga And Animes As well
+Demo LInk :https://live.mangabooth.com/
 
-
-Demo:
-![animestream-new-style-compressed](https://github.com/user-attachments/assets/c77d4b9c-a4e2-41dd-ada0-1113c492244f)
+![OIP](https://github.com/user-attachments/assets/9557759c-c8d8-4d04-8597-75a1c4159221)
