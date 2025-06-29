@@ -1,0 +1,12 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">wp-manga</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">wp-manga-tag</taxonomy>
+        <taxonomy translate="1">wp-manga-release</taxonomy>
+        <taxonomy translate="1">wp-manga-author</taxonomy>
+        <taxonomy translate="1">wp-manga-artist</taxonomy>
+        <taxonomy translate="1">wp-manga-genre</taxonomy>
+    </taxonomies>
+</wpml-config>

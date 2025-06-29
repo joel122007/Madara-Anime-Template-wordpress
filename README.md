@@ -1,2 +1,4 @@
-# Anime-template-for-wordpress
-Anime Template for wordpress (Madara Theme)
+madara
+===
+
+madara is starter theme built for Madara's projects
